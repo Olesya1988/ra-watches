@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-watches/static/css/main.f72af911.css",
+    "main.js": "/ra-watches/static/js/main.90c07138.js",
+    "index.html": "/ra-watches/index.html",
+    "main.f72af911.css.map": "/ra-watches/static/css/main.f72af911.css.map",
+    "main.90c07138.js.map": "/ra-watches/static/js/main.90c07138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72af911.css",
+    "static/js/main.90c07138.js"
+  ]
+}
